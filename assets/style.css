@@ -3,5 +3,6 @@
    font-family: cursive;
 }
 .div1{
-    float: right;
+    display: flex;
+    flex-direction: row;
 }
